@@ -47,6 +47,7 @@ To build the library, run:
 ```bash
 cd ~
 git clone https://github.com/EduPonz/easynmea.git
+cd easynmea
 mkdir build && cd build
 cmake ..
 cmake --build .
